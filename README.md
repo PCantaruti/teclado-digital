@@ -9,3 +9,7 @@
 - ``HTML``
 - ``JavaScript``
 - ``Css``
+
+## Visão do sistema
+
+<img src="images/teclado.png"/>
